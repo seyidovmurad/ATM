@@ -1,0 +1,12 @@
+/Users/murad/Projects/ATM/ATM/bin/Debug/ATM.exe
+/Users/murad/Projects/ATM/ATM/bin/Debug/ATM.pdb
+/Users/murad/Projects/ATM/ATM/obj/Debug/ATM.csproj.AssemblyReference.cache
+/Users/murad/Projects/ATM/ATM/obj/Debug/ATM.csproj.CoreCompileInputs.cache
+/Users/murad/Projects/ATM/ATM/obj/Debug/ATM.exe
+/Users/murad/Projects/ATM/ATM/obj/Debug/ATM.pdb
+/Volumes/E disk/step it/Homework_c#/5-01.08.2021/ATM/ATM/bin/Debug/ATM.exe
+/Volumes/E disk/step it/Homework_c#/5-01.08.2021/ATM/ATM/bin/Debug/ATM.pdb
+/Volumes/E disk/step it/Homework_c#/5-01.08.2021/ATM/ATM/obj/Debug/ATM.csproj.AssemblyReference.cache
+/Volumes/E disk/step it/Homework_c#/5-01.08.2021/ATM/ATM/obj/Debug/ATM.csproj.CoreCompileInputs.cache
+/Volumes/E disk/step it/Homework_c#/5-01.08.2021/ATM/ATM/obj/Debug/ATM.exe
+/Volumes/E disk/step it/Homework_c#/5-01.08.2021/ATM/ATM/obj/Debug/ATM.pdb
